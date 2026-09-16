@@ -15,7 +15,11 @@ Dry beans are an important agricultural product, and different types of beans ca
 
 # Student names
 Jory Alshehri 446203157
+
 Shahad Azzahrani 446202928
+
 Hanan Almuzini 446202672
+
 Danah Albosili 446202582
+
 Lamar Alaskar 446202089
