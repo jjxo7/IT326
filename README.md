@@ -12,3 +12,10 @@ The primary objective of this project is to develop predictive techniques that c
 # Motivation
 
 Dry beans are an important agricultural product, and different types of beans can have similar physical characteristics, making them difficult to distinguish. This project was chosen to explore how data mining can be applied to physical measurements of dry beans. Classification can be used to identify the type of bean, while clustering can reveal groups of beans that share similar characteristics. Through these techniques, the project aims to better understand the dataset and demonstrate the usefulness of data mining in analyzing agricultural data
+
+# Student names
+Jory Alshehri 446203157
+Shahad Azzahrani 446202928
+Hanan Almuzini 446202672
+Danah Albosili 446202582
+Lamar Alaskar 446202089
